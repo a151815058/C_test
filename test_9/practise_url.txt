@@ -1,0 +1,1 @@
+https://docs.microsoft.com/zh-tw/dotnet/csharp/programming-guide/types/how-to-safely-cast-by-using-as-and-is-operators
